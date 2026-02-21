@@ -15,7 +15,7 @@ kubernetes==26.1.0
 jira==3.5.1
 
 # Natural Language Processing
-google-cloud-aiplatform==1.25.0
+google-cloud-aiplatform==1.133.0
 langchain==0.2.5
 langchain-google-genai==0.0.5
 
